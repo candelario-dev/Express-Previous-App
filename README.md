@@ -1,8 +1,8 @@
-#Express Previous App
+# Express Previous App
 ![Todo](https://user-images.githubusercontent.com/69063941/93759444-2fb32a00-fbd8-11ea-875b-de84fe52463d.png)
 
 
-###How it's made:
+### How it's made:
 HTML, EJS, CSS, Boostrap, JavaScript, Node.js, MongoDB
 
 
